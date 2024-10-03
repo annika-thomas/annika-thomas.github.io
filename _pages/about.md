@@ -18,6 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Ph.D. student @ [Massachusetts Institute of Technology](https://www.mit.edu/)
+
+
+Hey! My name is Annika Thomas and I'm in my 4th year of pursing my Ph.D. at Massachusetts Institute of Technology where I work with [Jonathan P. How](https://www.mit.edu/~jhow/) in the [Aerospace Controls Laboratory](https://acl.mit.edu/). Prior to joining MIT, I obtained a B.S. in [Mathematics and Physics](https://www.collegeofidaho.edu/academics/departments/mathematics-physical-sciences) from The College of Idaho and a B.S. in [Mechanical Engineering](https://www.me.columbia.edu/) from Columbia University in the City of New York.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
