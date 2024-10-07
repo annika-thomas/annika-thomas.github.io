@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student @ [Massachusetts Institute of Technology](https://www.mit.edu/)
+subtitle: /
 
 profile:
   align: right
@@ -17,6 +17,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+Ph.D. student @ [Massachusetts Institute of Technology](https://www.mit.edu/)
 
 Hey! My name is Annika Thomas and I'm in my 4th year of pursing my Ph.D. at Massachusetts Institute of Technology where I work with [Jonathan P. How](https://www.mit.edu/~jhow/) in the [Aerospace Controls Laboratory](https://acl.mit.edu/). Prior to joining MIT, I obtained a B.S. in [Mathematics and Physics](https://www.collegeofidaho.edu/academics/departments/mathematics-physical-sciences) from The College of Idaho and a B.S. in [Mechanical Engineering](https://www.me.columbia.edu/) from Columbia University in the City of New York.
 
