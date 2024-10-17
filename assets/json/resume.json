@@ -56,6 +56,24 @@
       "endDate": "2022-01-01",
       "summary": "Redesigned the mechanical engineering lab course, MECE E3018, at Columbia University to promote active learning.",
       "highlights": ["Advised by Yevgeniy Yesilevskiy"]
+    },
+    {
+      "name": "Stanford Plasma Dynamics Modeling Laboratory",
+      "position": "Visiting Researcher",
+      "url": "https://pdml.stanford.edu/",
+      "startDate": "2020-05-01",
+      "endDate": "2020-09-01",
+      "summary": "Predicted plasma flow in spacecraft propulsion systems using extended Kalman filtering.",
+      "highlights": ["Advised by Kentaro Hara"]
+    },
+    {
+      "name": "Rensselaer Polytechnic Institute Brown Research Group",
+      "position": "Visiting Researcher, NSF REU",
+      "url": "https://sites.google.com/view/brown-research-group/home",
+      "startDate": "2019-05-01",
+      "endDate": "2019-10-01",
+      "summary": "Designed an indirect detection technique for weakly interacting massive particle dark matter.",
+      "highlights": ["Advised by Ethan Brown and Morgan Schaller"]
     }
   ],
   "volunteer": [
