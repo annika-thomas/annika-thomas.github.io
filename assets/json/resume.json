@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Annika Thomas",
-    "label": "PhD Candidate",
+    "title": "PhD Candidate",
     "image": "",
     "email": "annikat@mit.edu",
     "url": "https://annika-thomas.github.io/",
@@ -40,13 +40,13 @@
       "highlights": ["Advised by Kerri Cahoy"]
     },
     {
-      "name": "MIT Space, Technology, Astronomy and Radiation Laboratory",
+      "name": "MIT Precision Motion Control Laboratory",
       "position": "Research Assistant",
-      "url": "https://starlab.mit.edu/",
-      "startDate": "2022-05-01",
+      "url": "https://pmc.mit.edu/about",
+      "startDate": "2021-08-01",
       "endDate": "2023-05-01",
-      "summary": "Led mechanical design, assembly, and integration of BeaverCube2 3U CubeSat, an Earth-observing nanosatellite equipped with onboard AI for task planning, segmenting, and characterizing satellite imagery with machine learning to optimize downlink decisions. Designed feedback control for suspension of a novel magnetically-levitated satellite attitude control system.",
-      "highlights": ["Advised by Kerri Cahoy"]
+      "summary": "Modeled and designed feedback control system for suspension of a novel magnetically-levitated reaction sphere for satellite attitude control.",
+      "highlights": ["Advised by David Trumper"]
     }
   ],
   "volunteer": [
