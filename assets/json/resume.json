@@ -36,7 +36,7 @@
       "url": "https://starlab.mit.edu/",
       "startDate": "2022-05-01",
       "endDate": "2023-05-01",
-      "summary": "Led mechanical design, assembly, and integration of BeaverCube2 3U CubeSat, an Earth-observing nanosatellite equipped with onboard AI for task planning, segmenting, and characterizing satellite imagery with machine learning to optimize downlink decisions. Designed feedback control for suspension of a novel magnetically-levitated satellite attitude control system.",
+      "summary": "Led mechanical design, assembly, and integration of BeaverCube2 3U CubeSat, an Earth-observing nanosatellite equipped with onboard AI for task planning, segmenting, and characterizing satellite imagery with machine learning to optimize downlink decisions.",
       "highlights": ["Advised by Kerri Cahoy"]
     },
     {
@@ -56,57 +56,6 @@
       "endDate": "2022-01-01",
       "summary": "Redesigned the mechanical engineering lab course, MECE E3018, at Columbia University to promote active learning.",
       "highlights": ["Advised by Yevgeniy Yesilevskiy"]
-    },
-    {
-      "name": "Stanford Plasma Dynamics Modeling Laboratory",
-      "position": "Visiting Researcher",
-      "url": "https://pdml.stanford.edu/",
-      "startDate": "2020-05-01",
-      "endDate": "2020-09-01",
-      "summary": "Predicted plasma flow in spacecraft propulsion systems using extended Kalman filtering.",
-      "highlights": ["Advised by Kentaro Hara"]
-    },
-    {
-      "name": "Rensselaer Polytechnic Institute Brown Research Group",
-      "position": "Visiting Researcher, NSF REU",
-      "url": "https://sites.google.com/view/brown-research-group/home",
-      "startDate": "2019-05-01",
-      "endDate": "2019-10-01",
-      "summary": "Designed an indirect detection technique for weakly interacting massive particle dark matter.",
-      "highlights": ["Advised by Ethan Brown and Morgan Schaller"]
-    },
-    {
-      "name": "Boise State University Magnetic Materials Laboratory",
-      "position": "Visiting Researcher, NSF REU",
-      "url": "https://www.boisestate.edu/coen-mml/",
-      "startDate": "2018-05-01",
-      "endDate": "2018-07-01",
-      "summary": "Designed using SolidWorks and machined biomechanical micropumps, including characterization tests and a user interface to control flow rate.",
-      "highlights": ["Advised by Peter Mullner"]
-    },
-    {
-      "name": "College of Idaho Star Formation Research Lab",
-      "position": "Independent Study",
-      "startDate": "2019-02-01",
-      "endDate": "2019-05-01",
-      "summary": "Visually classified Yellowballs to refine their radius measurements and performed statistical analysis of regression.",
-      "highlights": ["Advised by Katie Devine"]
-    },
-    {
-      "name": "College of Idaho Observational Astronomy",
-      "position": "Independent Study and Field Work",
-      "startDate": "2017-12-01",
-      "endDate": "2018-05-01",
-      "summary": "Collected and analyzed exoplanet data, performed spectroscopy, operated telescopes, and imaged the M33 galaxy.",
-      "highlights": ["Advised by Joe Daglen and Jim Dull"]
-    },
-    {
-      "name": "MIT Lincoln Laboratory, Group 76",
-      "position": "Engineering Intern, Control and Autonomous Systems",
-      "url": "https://www.ll.mit.edu/r-d/engineering/control-and-autonomous-systems-engineering",
-      "startDate": "2022-05-01",
-      "endDate": "2022-08-01",
-      "summary": "Developed a state space model of an inverted double pendulum in Simulink, implemented autonomous trajectory planning and control of RC cars.",
     }
   ],
   "volunteer": [
