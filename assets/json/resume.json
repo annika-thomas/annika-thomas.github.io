@@ -83,6 +83,24 @@
       "endDate": "2018-07-01",
       "summary": "Designed using SolidWorks and machined biomechanical micropumps, including characterization tests and a user interface to control flow rate.",
       "highlights": ["Advised by Peter Mullner"]
+    },
+    {
+      "name": "Independent Study",
+      "position": "College of Idaho Star Formation Research Lab",
+      "url": "https://www.collegeofidaho.edu/directory/kathryn-devine",
+      "startDate": "2019-02-01",
+      "endDate": "2019-05-01",
+      "summary": "Visually classified Yellowballs to refine their radius measurements and performed statistical analysis of regression.",
+      "highlights": ["Advised by Katie Devine"]
+    },
+    {
+      "name": "Independent Study and Field Work",
+      "position": "College of Idaho Observational Astronomy",
+      "url": "https://www.collegeofidaho.edu/directory/jim-dull",
+      "startDate": "2017-12-01",
+      "endDate": "2018-05-01",
+      "summary": "Collected and analyzed exoplanet data, performed spectroscopy, operated telescopes, and imaged the M33 galaxy.",
+      "highlights": ["Advised by Joe Daglen and Jim Dull"]
     }
 
   ],
