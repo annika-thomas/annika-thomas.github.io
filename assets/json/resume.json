@@ -24,6 +24,7 @@
     {
       "name": "PhD Candidate",
       "position": "MIT Aerospace Controls Laboratory",
+      "location": "Cambridge, MA",
       "url": "https://acl.mit.edu/",
       "startDate": "2023-05-01",
       "endDate": "2026-05-01",
@@ -33,6 +34,7 @@
     {
       "name": "Research Assistant",
       "position": "MIT Space, Technology, Astronomy and Radiation Laboratory",
+      "location": "Cambridge, MA",
       "url": "https://starlab.mit.edu/",
       "startDate": "2022-05-01",
       "endDate": "2023-05-01",
@@ -42,6 +44,7 @@
     {
       "name": "Research Assistant",
       "position": "MIT Precision Motion Control Laboratory",
+      "location": "Cambridge, MA",
       "url": "https://pmc.mit.edu/about",
       "startDate": "2021-08-01",
       "endDate": "2023-05-01",
@@ -51,6 +54,7 @@
     {
       "name": "Research Assistant",
       "position": "Columbia University Mechanical Engineering Department",
+      "location": "New York, NY",
       "url": "https://www.engineering.columbia.edu/",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
@@ -60,6 +64,7 @@
     {
       "name": "Stanford Undergraduate Research Fellowship (SURF) Scholar",
       "position": "Stanford Plasma Dynamics Modeling Laboratory",
+      "location": "Stanford, CA",
       "url": "https://pdml.stanford.edu/",
       "startDate": "2020-05-01",
       "endDate": "2020-09-01",
@@ -69,6 +74,7 @@
     {
       "name": "NSF Research Experience for Undergraduates",
       "position": "Rensselaer Polytechnic Institute Brown Research Group",
+      "location": "Troy, NY",
       "url": "https://sites.google.com/view/brown-research-group/home",
       "startDate": "2019-05-01",
       "endDate": "2019-10-01",
@@ -78,6 +84,7 @@
     {
       "name": "NSF Research Experience for Undergraduates",
       "position": "Boise State University Magnetic Materials Laboratory",
+      "location": "Boise, ID",
       "url": "https://www.boisestate.edu/coen-mml/",
       "startDate": "2018-05-01",
       "endDate": "2018-07-01",
@@ -87,6 +94,7 @@
     {
       "name": "Independent Study",
       "position": "College of Idaho Star Formation Research Lab",
+      "location": "Caldwell, ID",
       "url": "https://www.collegeofidaho.edu/directory/kathryn-devine",
       "startDate": "2019-02-01",
       "endDate": "2019-05-01",
@@ -96,6 +104,7 @@
     {
       "name": "Independent Study and Field Work",
       "position": "College of Idaho Observational Astronomy",
+      "location": "Caldwell, ID, and Mayhill, NM",
       "url": "https://www.collegeofidaho.edu/directory/jim-dull",
       "startDate": "2017-12-01",
       "endDate": "2018-05-01",
@@ -105,6 +114,7 @@
     {
       "name": "Research Laboratory Technician",
       "position": "University of Idaho Research and Extension",
+      "location": "Parma, ID",
       "url": "https://www.uidaho.edu/cals/parma-research-and-extension-center/plant-pathology",
       "startDate": "2017-02-01",
       "endDate": "2017-10-01",
