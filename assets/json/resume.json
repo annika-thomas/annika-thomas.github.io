@@ -136,15 +136,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Robotics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2023-09-01",
+      "endDate": "2026-05-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Deep Learning"]
     }
   ],
   "awards": [
