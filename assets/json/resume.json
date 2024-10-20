@@ -178,11 +178,88 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best in Theme, Long Duration Mars Simulation at the Moon",
+      "date": "2024",
+      "awarder": "NASA RASC-AL",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-rasc-al-competition-selects-2024-winners/",
+      "summary": "Awarded for the best theme in the NASA RASC-AL competition, focused on long-duration Mars simulation at the Moon."
+    },
+    {
+      "title": "Finalist, Best Paper in Safety, Security and Rescue Robotics",
+      "date": "2023",
+      "awarder": "IROS",
+      "url": "https://events.infovaya.com/presentation?id=103760",
+      "summary": "Finalist for the best paper on Safety, Security, and Rescue Robotics at the International Conference on Intelligent Robots and Systems (IROS)."
+    },
+    {
+      "title": "GRFP Fellowship",
+      "date": "2023",
+      "awarder": "National Science Foundation",
+      "url": "https://www.nsfgrfp.org/",
+      "summary": "Awarded the prestigious NSF Graduate Research Fellowship for academic excellence and research potential."
+    },
+    {
+      "title": "GRA of the Month",
+      "date": "2023",
+      "awarder": "MIT Fraternities, Sororities and Independent Living Groups",
+      "url": "https://studentlife.mit.edu/fsilg/gra-program",
+      "summary": "Recognized as the Graduate Resident Advisor of the month for contributions to MIT's student living community."
+    },
+    {
+      "title": "Martin Fellowship for Design",
+      "date": "2022",
+      "awarder": "MIT",
+      "url": "",
+      "summary": "Received the Martin Fellowship for excellence in design at MIT."
+    },
+    {
+      "title": "Brookfield Fellowship",
+      "date": "2021",
+      "awarder": "MIT",
+      "url": "https://betterworld.mit.edu/spectrum/issues/spring-2021/second-generation-mit-family-gives-back/",
+      "summary": "Awarded the Brookfield Fellowship for outstanding academic performance and research at MIT."
+    },
+    {
+      "title": "Distinguished Tutor",
+      "date": "2021",
+      "awarder": "Columbia Tutoring and Learning Center",
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyofengineering.html",
+      "summary": "Recognized as a distinguished tutor by Columbia University's Tutoring and Learning Center."
+    },
+    {
+      "title": "John K. Mladinov Scholarship",
+      "date": "2020-2021",
+      "awarder": "Columbia Named Scholarships",
+      "url": "https://www.engineering.columbia.edu/scholarships",
+      "summary": "Received the John K. Mladinov Scholarship for academic excellence at Columbia University."
+    },
+    {
+      "title": "U.S. Bank Academic All-Conference Award",
+      "date": "2017-2019",
+      "awarder": "Cascade Collegiate Conference",
+      "url": "https://www.womentechmakers.com/scholars",
+      "summary": "Recognized as a U.S. Bank Academic All-Conference student-athlete for maintaining high academic standards."
+    },
+    {
+      "title": "Math and Physical Sciences Department Scholarship",
+      "date": "2017",
+      "awarder": "College of Idaho",
+      "url": "",
+      "summary": "Awarded for excellence in math and physical sciences by the College of Idaho."
+    },
+    {
+      "title": "Presidential Merit Scholarship",
+      "date": "2016-2019",
+      "awarder": "College of Idaho",
+      "url": "",
+      "summary": "Awarded the Presidential Merit Scholarship for academic achievement at the College of Idaho."
+    },
+    {
+      "title": "Gipson Honors Program",
+      "date": "2016-2019",
+      "awarder": "College of Idaho",
+      "url": "https://shorturl.at/duCQR",
+      "summary": "Selected for the Gipson Honors Program at the College of Idaho, recognizing academic excellence and leadership."
     }
   ],
   "certificates": [
