@@ -124,14 +124,94 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "NASA Lunar Autonomy Challenge",
+      "location": "MIT",
+      "position": "Team Lead",
+      "url": "",
+      "startDate": "2024-09-01",
+      "endDate": "Present",
+      "summary": "Leading a team of 12 students to perform surface mapping, autonomous robotic operation, localization, orientation, path planning, and object detection on the Lunar surface using IPEx."
+    },
+    {
+      "organization": "MIT AeroAstro Communication Lab",
+      "location": "MIT",
+      "position": "Fellow",
+      "url": "",
+      "startDate": "2024-05-01",
+      "endDate": "Present",
+      "summary": "Supporting students with their communication skills in the AeroAstro department."
+    },
+    {
+      "organization": "MIT Housing & Residential Services",
+      "location": "MIT",
+      "position": "Graduate Residential Assistant",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "Serving as a Graduate Residential Assistant to support MIT's Housing and Residential Services."
+    },
+    {
+      "organization": "NASA RASC-AL Lunar Mars Analog",
+      "location": "MIT",
+      "position": "Operations Lead",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2024-05-01",
+      "summary": "Led integration of multi-agent robotics and AI into architecture for autonomous operations in the Lunar Mars Analog project."
+    },
+    {
+      "organization": "MIT Graduate Student Council",
+      "location": "MIT",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "summary": "Contributed as a volunteer for various MIT Graduate Student Council activities."
+    },
+    {
+      "organization": "MIT Graduate Association of Mechanical Engineers",
+      "location": "MIT",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "summary": "Volunteered to support initiatives of the MIT Graduate Association of Mechanical Engineers."
+    },
+    {
+      "organization": "IEEE Robotics and Automation Letters (RA-L)",
+      "location": "",
+      "position": "Reviewer",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "summary": "Reviewed articles for the IEEE Robotics and Automation Letters (RA-L)."
+    },
+    {
+      "organization": "IEEE International Conference on Robotics and Automation (ICRA)",
+      "location": "",
+      "position": "Reviewer",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2024-12-31",
+      "summary": "Reviewed submissions for the IEEE International Conference on Robotics and Automation (ICRA)."
+    },
+    {
+      "organization": "MIT Mechanical Engineering Graduate Seminar",
+      "location": "MIT",
+      "position": "Invited Panelist",
+      "url": "",
+      "startDate": "2023-10-01",
+      "endDate": "2023-10-01",
+      "summary": "Served as an invited panelist for MIT's Mechanical Engineering Graduate Seminar."
+    },
+    {
+      "organization": "MIT Beaver Works Summer Institute",
+      "location": "MIT",
+      "position": "Invited Panelist",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-01",
+      "summary": "Participated as an invited panelist at the MIT Beaver Works Summer Institute."
     }
   ],
   "education": [
