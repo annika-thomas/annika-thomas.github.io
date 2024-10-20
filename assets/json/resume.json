@@ -453,25 +453,53 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Outdoor Global Localization via Robust Registration of 3D Open-Set Segments",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Co-authored with Mason Peterson, Yi Xuan Jia, Yulun Tian, and Jonathan How, this paper presents a method for outdoor global localization using robust registration of 3D open-set segments."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "SOS-Match: Segmentation for Open-Set Robust Correspondence Search and Robot Localization in Unstructured Environments",
+      "publisher": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Co-authored with Jouko Kinnari, Parker Lusk, Kota Konda, and Jonathan How, this paper introduces SOS-Match, a novel approach to robot localization in unstructured environments, selected for the 2024 IEEE/RSJ IROS."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Global Localization in Unstructured Environments Using Semantic Object Maps Built from Various Viewpoints",
+      "publisher": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "Co-authored with Jacqueline Ankenbauer, Parker C. Lusk, and Jonathan P. How, this paper discusses global localization in unstructured environments using semantic object maps, selected for IROS 2023."
+    },
+    {
+      "name": "Puma: Fully Decentralized Uncertainty-Aware Multiagent Trajectory Planner with Real-Time Image Segmentation-Based Frame Alignment",
+      "publisher": "IEEE International Conference on Robotics and Automation (ICRA)",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Co-authored with Kota Kondo, Claudius Tewari, Mason B. Peterson, Jouko Kinnari, Andrea Tagliabue, and Jonathan P. How, this paper presents Puma, a fully decentralized multiagent trajectory planner with real-time image segmentation, selected for ICRA 2024."
+    },
+    {
+      "name": "Real-Time Estimation of Electron Dynamics in Hall Effect Thrusters Using an Extended Kalman Filter",
+      "publisher": "AIAA Propulsion and Energy Forum",
+      "releaseDate": "2020",
+      "url": "",
+      "summary": "Co-authored with Christine Greve, Manoranjan Majji, and Kentaro Hara, this paper explores real-time estimation of electron dynamics in Hall effect thrusters using an extended Kalman filter, presented at the AIAA Propulsion and Energy 2020 Forum."
+    },
+    {
+      "name": "Protecting Satellites in Low Earth Orbit: An Overview of Hazards and Policy Solutions",
+      "publisher": "MIT Science Policy Review",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "Co-authored with Danisl Ammons, Kristen Green, Laman Jalil, Joe Kusters, and Kerri Cahoy, this article provides an overview of hazards facing satellites in low Earth orbit and policy solutions to protect them."
+    },
+    {
+      "name": "Introducing Experimental Design to Promote Active Learning",
+      "publisher": "ASEE Annual Conference & Exposition",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": "Co-authored with Yevgeniy Yesilevskiy, Jessica Oehrlein, Melissa Wright, and Michael Tarnow, this paper discusses introducing experimental design into engineering education to promote active learning, presented at the 2022 ASEE Annual Conference."
     }
   ],
   "skills": [
