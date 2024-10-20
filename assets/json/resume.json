@@ -143,8 +143,7 @@
       "studyType": "Ph.D.",
       "startDate": "2023-05-01",
       "endDate": "2026-05-01",
-      "score": "10",
-      "courses": ["Deep Learning"]
+      "score": "10"
     },
     {
       "institution": "Massachusetts Institute of Technology",
@@ -160,7 +159,7 @@
       "institution": "Columbia University in the City of New York",
       "location": "New York, NY",
       "url": "https://www.me.columbia.edu/",
-      "area": "Controls",
+      "area": "Mechanical Engineering",
       "studyType": "B.S.",
       "startDate": "2019-09-01",
       "endDate": "2021-05-01",
