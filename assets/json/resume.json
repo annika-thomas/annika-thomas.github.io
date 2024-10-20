@@ -122,6 +122,71 @@
       "highlights": ["Advised by James Woodhall"]
     }
   ],
+  "teaching": [
+    {
+      "organization": "Polygence",
+      "location": "",
+      "position": "Research Mentor",
+      "url": "",
+      "startDate": "2022-02-01",
+      "endDate": "Present",
+      "summary": "Providing mentorship for students to pursue independently led research projects related to robotics, Lunar architecture, machine learning, and aircraft/spacecraft design."
+    },
+    {
+      "organization": "MIT",
+      "location": "",
+      "position": "Invited Lecturer",
+      "url": "",
+      "startDate": "2024-09-01",
+      "endDate": "2024-09-30",
+      "summary": "Delivered a lecture in the MIT First Year Graduate Seminar."
+    },
+    {
+      "organization": "MIT",
+      "location": "",
+      "position": "Teaching Assistant: Stochastics; Product Design (Qualifying Exams)",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2024-01-01",
+      "summary": "Assisted with courses on Stochastics and Product Design, specifically in preparation for qualifying exams."
+    },
+    {
+      "organization": "MIT",
+      "location": "",
+      "position": "Invited Speaker, Women in Engineering Showcase",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-31",
+      "summary": "Presented on segmentation for robotic mapping and localization in extreme environments."
+    },
+    {
+      "organization": "MIT Beaver Works Summer Institute",
+      "location": "MIT",
+      "position": "Instructor",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30",
+      "summary": "Served as an instructor for MIT's Beaver Works Summer Institute, teaching various topics in engineering."
+    },
+    {
+      "organization": "MIT Women's Technology Program",
+      "location": "MIT",
+      "position": "Instructor",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30",
+      "summary": "Taught at the MIT Women's Technology Program, focusing on advancing women's participation in technology fields."
+    },
+    {
+      "organization": "Columbia University",
+      "location": "Columbia",
+      "position": "Instructor, Summer High School Program for Engineers",
+      "url": "",
+      "startDate": "2021-05-01",
+      "endDate": "2021-08-31",
+      "summary": "Taught advanced robotics and multivariable calculus to 30 high school students."
+    }
+  ],
   "volunteer": [
     {
       "organization": "NASA Lunar Autonomy Challenge",
