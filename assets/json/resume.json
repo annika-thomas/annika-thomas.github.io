@@ -104,7 +104,7 @@
     {
       "name": "Independent Study and Field Work",
       "position": "College of Idaho Observational Astronomy",
-      "location": "Caldwell, ID, and Mayhill, NM",
+      "location": "Mayhill, NM",
       "url": "https://www.collegeofidaho.edu/directory/jim-dull",
       "startDate": "2017-12-01",
       "endDate": "2018-05-01",
@@ -140,11 +140,21 @@
       "location": "Cambridge, MA",
       "url": "https://www.uzh.ch/",
       "area": "Robotics",
-      "studyType": "PhD",
-      "startDate": "2023-09-01",
+      "studyType": "Ph.D.",
+      "startDate": "2023-05-01",
       "endDate": "2026-05-01",
       "score": "10",
       "courses": ["Deep Learning"]
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "url": "https://www.uzh.ch/",
+      "area": "Controls",
+      "studyType": "S.M.",
+      "startDate": "2021-09-01",
+      "endDate": "2023-05-01",
+      "score": "10"
     }
   ],
   "awards": [
