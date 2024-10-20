@@ -138,7 +138,7 @@
     {
       "institution": "Massachusetts Institute of Technology",
       "location": "Cambridge, MA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.mit.edu/",
       "area": "Robotics",
       "studyType": "Ph.D.",
       "startDate": "2023-05-01",
@@ -149,11 +149,31 @@
     {
       "institution": "Massachusetts Institute of Technology",
       "location": "Cambridge, MA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.mit.edu/",
       "area": "Controls",
       "studyType": "S.M.",
       "startDate": "2021-09-01",
       "endDate": "2023-05-01",
+      "score": "10"
+    },
+    {
+      "institution": "Columbia University in the City of New York",
+      "location": "New York, NY",
+      "url": "https://www.me.columbia.edu/",
+      "area": "Controls",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "2021-05-01",
+      "score": "10"
+    },
+    {
+      "institution": "The College of Idaho",
+      "location": "Caldwell, ID",
+      "url": "https://www.collegeofidaho.edu/",
+      "area": "Mathematics and Physics",
+      "studyType": "B.S.",
+      "startDate": "2016-09-01",
+      "endDate": "2019-05-01",
       "score": "10"
     }
   ],
