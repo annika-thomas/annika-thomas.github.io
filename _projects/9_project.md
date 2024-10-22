@@ -34,6 +34,6 @@ Check out our [Github](https://github.com/annika-thomas/DORI) for example Notebo
     </div>
 </div>
 <div class="caption">
-    Stills from the fish doorbell, taken from [the fish doorbell webpage](https://visdeurbel.nl/en/the-fish-doorbell/).
+    Stills from the fish doorbell, taken from TheFishDoorbell.
 </div>
 
