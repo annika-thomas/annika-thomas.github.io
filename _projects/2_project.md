@@ -5,7 +5,6 @@ description: satellite attitude control system
 img: assets/img/scmg_crop.png
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 The spherical control moment gyroscope is a continuation of work completed by Tyler Hamer, PhD. Hamer’s work involved the construction and validation of a magnetically suspended spherical permanent magnet dipole actuator that operates as a reaction wheel, meaning it actuates in two instantaneous rotational degrees of freedom. My work involved electromagnetics modeling, force and torque modeling, and magnetic suspension that inform how to incorporate inductive spin into the symmetric axis of the spherical rotor so it operates in three instantaneous rotational degrees of freedom.
