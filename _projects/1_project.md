@@ -2,7 +2,7 @@
 layout: page
 title: BeaverCube2 CubeSat
 description: with background image
-img: assets/img/cubesat.jpg
+img: assets/img/bc2.png
 importance: 1
 category: work
 related_publications: true
@@ -31,7 +31,7 @@ I performed simulations using Ansys to ensure that satellite components can stru
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vibtest.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
