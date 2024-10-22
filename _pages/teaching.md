@@ -20,6 +20,15 @@ nav_order: 6
 - [Annika Thomas Works on Plasma Engines for Space Propulsion](https://engineering.stanford.edu/magazine/annika-thomas-works-plasma-engines-space-propulsion) (Stanford), 2020
 - [Finding the Way: The Thomas Tutors](https://issuu.com/thecollegeofidaho/docs/cofi_quest_november_2018_isuu) (College of Idaho Magazine), 2018
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/tedx.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Structural analysis of BeaverCube2 in Ansys Mechanical
+</div>
+
 ### Selected Invited Talks
 - **MIT Perception and Localization Seminar:** Open-Set Object-Based Localization, Oct 2024
 - **John F. Kennedy High School:** Computer Vision in Astronomy, Oct 2024
