@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BeaverCube2 CubeSat
-description: with background image
+description: Earth-observing nanosatellite
 img: assets/img/bc2.png
 importance: 1
 category: work
