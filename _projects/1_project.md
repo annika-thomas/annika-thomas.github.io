@@ -26,6 +26,9 @@ As the lead mechanical, structural, systems and thermal engineer for BeaverCube2
 <div class="caption">
     Modular computer aided design of all satellite components that successfully integrate all subsystems and meet the size requirements of a 3U CubeSat
 </div>
+
+I performed simulations using Ansys to ensure that satellite components can structurally withstand the harsh 13.5G linear accelerations, 8 rad/s radial accelerations, 20,000N side rail loads, and random vibration environment experienced during launch. The design is robust in these conditions. The minimum frequencies of modes of vibration throughout the structure occur well above the allowed minimum mode of 100 Hz. 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -35,9 +38,7 @@ As the lead mechanical, structural, systems and thermal engineer for BeaverCube2
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I also ensured that all subsystems of the satellite do not reach temperatures exceeding their storage temperature ranges and do not exceed their operating ranges while turned on. Analytical and simulated thermal analysis demonstrates during worst case hot (beta angle) and worst case cold (beta angle) orbits, no subsystem reaches the operating temperature bounds.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
