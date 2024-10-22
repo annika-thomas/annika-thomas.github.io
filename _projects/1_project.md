@@ -2,7 +2,7 @@
 layout: page
 title: BeaverCube2 CubeSat
 description: with background image
-img: assets/img/cubesat.png
+img: assets/img/cubesat.jpg
 importance: 1
 category: work
 related_publications: true
