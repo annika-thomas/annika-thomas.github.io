@@ -19,9 +19,7 @@ The spherical control moment gyroscope is a continuation of work completed by Ty
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+To model the inductive spin drive, I derived two different models, including a bulk conductivity model and a thin shell current model of the dipole permanent magnet rotor and the surrounding coils. Below shows the simulated fields in Ansys for a dipole configuration (left) and the analytically derived field for a quadrupole configuration (right). 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,9 +30,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I designed a closed-loop feedback control system to levitate a permanent magnet rotor prototype. Plant modeling and controller design is shown for closed-loop suspension below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -45,9 +41,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+With the thin shell model (left), I analytically model inductive drive to generate torque depending on the surface material and validate my findings using finite element modeling simulation. For the shell bulk conductivity model (right), I analytically model a copper shell to generate torque and validate my findings using finite element modeling simulation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
