@@ -24,7 +24,7 @@ As the lead mechanical, structural, systems and thermal engineer for BeaverCube2
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Modular computer aided design of all satellite components that successfully integrate all subsystems and meet the size requirements of a 3U CubeSat
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
