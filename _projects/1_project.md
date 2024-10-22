@@ -5,7 +5,7 @@ description: Earth-observing nanosatellite
 img: assets/img/bc2.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 BeaverCube2 is a 3U Cube Satellite built in collaboration between MIT STAR Laboratory and Northrop Grumman for experiments involving Earth observation. The satellite is 30 cm x 10 cm x 10 cm in dimension, the CubeSat standard 3U. It hosts one main experiment, the demonstration of a Adaptive Compute Acceleration Platform (ACAP) using two optical sensors and one infrared sensor to study the Earth. 
