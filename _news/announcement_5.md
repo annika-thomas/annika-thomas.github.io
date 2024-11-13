@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Spatial AI For Collaborative Robotics" talk awarded seconds place at the MIT AI Conference Annual Research Slam
+Spatial AI For Collaborative Robotics talk awarded second place at the MIT AI Conference Annual Research Slam
