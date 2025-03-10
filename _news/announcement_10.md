@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Moon BRICCSS - Moon Blocks using Regolith ISRU for Corbeled Construction of Sustainable Shielding" presented at [IEEE Aerospace](https://www.aeroconf.org/) in Big Sky, Montana.
+"Moon BRICCSS - Moon Blocks using Regolith ISRU for Corbeled Construction of Sustainable Shielding" presented at [IEEE Aerospace](https://www.aeroconf.org/) in Big Sky, Montana
