@@ -30,6 +30,12 @@ nav_order: 6
 </div>
 
 ### Selected Invited Talks
+- **MIT SpaceTech Lightning Talk:** Rovers, Rocks, and Reasoning: AI on the Lunar Surface, Apr 2025
+- **Imagination in Action IEEE Technical Talk:** [Building Collaborative Spatial Intelligence for Multi-Agent Robots ](https://www.youtube.com/watch?v=J1kjmu7fjcM&ab_channel=ImaginationinAction), Apr 2025
+- **Imagination in Action Forbes Lightning Talk:** [Enabling Multi-Agent Robots with Collaborative Visual Intelligence](https://www.youtube.com/watch?v=fjcjfm1Ftww&ab_channel=ImaginationinAction), Apr 2025
+- **AirLab at Carnegie Mellon University Robotics Institute:** [Graph-Theoretic Object-Based Localization in GPS-Denied Environments](https://www.youtube.com/watch?v=fT6KLfiLAAw&ab_channel=AirLab), Feb 2025
+- **Women Innovators SheTech Conference:** Keynote, Jan 2025
+- **MIT AI Conference:** Spatial AI for Collaborative Robotics, Oct 2024
 - **MIT Perception and Localization Seminar:** Open-Set Object-Based Localization, Oct 2024
 - **John F. Kennedy High School:** Computer Vision in Astronomy, Oct 2024
 - **TEDxBoston:** [Robotics and Regolith: Building Habitats from Moon Dust](https://www.youtube.com/watch?v=IO7Ccta4cBY&ab_channel=TEDxTalks), July 2024
