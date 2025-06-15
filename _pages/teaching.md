@@ -29,7 +29,7 @@ nav_order: 6
     TEDxMIT and TEDxBoston talks
 </div>
 
-### Selected Invited Talks
+### Selected Invited Talks   
 - **MIT SpaceTech Lightning Talk:** Rovers, Rocks, and Reasoning: AI on the Lunar Surface, Apr 2025
 - **Imagination in Action IEEE Technical Talk:** [Building Collaborative Spatial Intelligence for Multi-Agent Robots ](https://www.youtube.com/watch?v=J1kjmu7fjcM&ab_channel=ImaginationinAction), Apr 2025
 - **Imagination in Action Forbes Lightning Talk:** [Enabling Multi-Agent Robots with Collaborative Visual Intelligence](https://www.youtube.com/watch?v=fjcjfm1Ftww&ab_channel=ImaginationinAction), Apr 2025
