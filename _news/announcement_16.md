@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-15 15:59:00-0400
+date: 2025-06-25 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Delivered a Forbes Lightning Talk on [Enabling Multi-Agent Robots with Collaborative Visual Intelligence](https://www.youtube.com/watch?v=fjcjfm1Ftww) at Imagination in Action @MIT 2025. 
+Presented [LunarLoc: Segment-Based Global Localization on the Moon](https://openreview.net/forum?id=SJ7vgKZo9Q) at the [RSS 2025 Workshop on Resilient Off-road Autonomous Robotics](https://off-roaders.github.io/off-road-workshop-2025/) in Los Angeles, California
