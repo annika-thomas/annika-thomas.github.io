@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Delivered a Forbes Lightning Talk on [Enabling Multi-Agent Robots with Collaborative Visual Intelligence](https://www.youtube.com/watch?v=fjcjfm1Ftww) at Imagination in Action @MIT 2025. 
+MIT Autonomous Pathfinding for Lunar Exploration (MAPLE), the team I led for the [NASA Lunar Autonomy Challenge](https://lunar-autonomy-challenge.jhuapl.edu/) was awarded [second place](https://lunar-autonomy-challenge.jhuapl.edu/Challenge-Teams/2024-2025/Winners/index.php) out of 31 qualifying teams
