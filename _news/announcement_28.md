@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Delivered a Forbes Lightning Talk on [Enabling Multi-Agent Robots with Collaborative Visual Intelligence](https://www.youtube.com/watch?v=fjcjfm1Ftww) at Imagination in Action @MIT 2025. 
+Gave a Lecture to the MIT First Year Graduate Seminar class on how to organize research papers
