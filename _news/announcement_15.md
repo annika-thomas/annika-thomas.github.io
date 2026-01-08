@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[ROMAN](https://acl.mit.edu/roman/) presented at Robotics: Science and Systems 2025 in Los Angeles, California
+[ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization](https://acl.mit.edu/roman/) presented at Robotics: Science and Systems 2025 in Los Angeles, California
