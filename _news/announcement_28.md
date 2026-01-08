@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a Lecture to the MIT First Year Graduate Seminar class on how to organize research papers
+Gave a lecture to the MIT First Year Graduate Seminar class on how to organize research papers
