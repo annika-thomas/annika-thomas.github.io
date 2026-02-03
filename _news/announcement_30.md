@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-23 15:59:00-0400
+date: 2026-1-21 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-[VISTA: Monocular Segmentation-Based Mapping for Appearance and View-Invariant Global Localization](https://arxiv.org/abs/2507.11653) accepted to Robotics and Automation Letters
+Moderated a panel on Space Tech at [Imagination in Action 2026]([https://arxiv.org/abs/2507.11653](https://iia2026.framer.website/luminary)) in Davos, Switzerland
